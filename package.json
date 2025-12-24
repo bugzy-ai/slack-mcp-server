@@ -36,11 +36,11 @@
   "author": "Milko Slavov <milko.slavov@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mslavov/slack-mcp-server.git"
+    "url": "git+https://github.com/bugzy-ai/slack-mcp-server.git"
   },
-  "homepage": "https://github.com/mslavov/slack-mcp-server",
+  "homepage": "https://github.com/bugzy-ai/slack-mcp-server",
   "bugs": {
-    "url": "https://github.com/mslavov/slack-mcp-server/issues"
+    "url": "https://github.com/bugzy-ai/slack-mcp-server/issues"
   },
   "license": "Apache-2.0",
   "dependencies": {
